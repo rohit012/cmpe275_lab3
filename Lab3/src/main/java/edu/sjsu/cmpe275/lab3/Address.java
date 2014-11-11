@@ -2,7 +2,7 @@ package edu.sjsu.cmpe275.lab3;
 
 import javax.persistence.Embeddable;
 
-@Embeddable
+@Embeddable// change by rohit
 public class Address {
 	private String street;
 	private String city;
